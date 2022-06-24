@@ -1,24 +1,12 @@
-# README
+# Alpha Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is created under the [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) on Udemy.
 
-Things you may want to cover:
+## Prerequisites
+- asdf
 
-* Ruby version
+## Installation
+[Install asdf (ruby, nodejs and yarn) in WSL2](https://dev.to/michellelwt/install-asdf-ruby-nodejs-and-yarn-in-wsl2-207o) by Michlle Loh
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Ruby Version
+ruby-3.1.1
