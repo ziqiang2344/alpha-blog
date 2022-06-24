@@ -6,7 +6,7 @@ This project is created under the [The Complete Ruby on Rails Developer Course](
 - asdf
 
 ## Installation
-[Install asdf (ruby, nodejs and yarn) in WSL2](https://dev.to/michellelwt/install-asdf-ruby-nodejs-and-yarn-in-wsl2-207o) by Michlle Loh
+[Install asdf (ruby, nodejs and yarn) in WSL2](https://dev.to/michellelwt/install-asdf-ruby-nodejs-and-yarn-in-wsl2-207o) by Michelle Loh
 
 ## Ruby Version
 ruby-3.1.1
